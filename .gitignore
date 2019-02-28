@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/CronTranslator/v15
+/CronTranslator/bin
+/CronTranslator/obj
+/packages
